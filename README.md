@@ -78,8 +78,8 @@ View Functions: Remember that view functions (getStudentName, getStudentMarks, i
 
 ## Authors
 
-Srishti
-@Srishti
+Vikram Garg
+Email - Vikramgarg979@gmail.com
 
 
 ## License
